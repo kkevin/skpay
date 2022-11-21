@@ -1,0 +1,19 @@
+{
+  applinks: {
+    apps: [], // only before iOS 13 
+    details: [
+      {
+        appId: "RMMLK2V76X.com.shilladfs.shillaKrMobile", // only before iOS 13 
+        paths: [ "*" ], // only before iOS 13              
+        appIDs: [
+            "RMMLK2V76X.com.shilladfs.shillaKrMobile"
+        ],
+        components: [
+            {
+                /: "*"
+            }
+        ]
+      }
+    ]
+  }
+}
